@@ -356,6 +356,18 @@ margin-bottom: 0;
   font-size: 50px;
   color: #fff;
 }
+#h4L {
+   margin-bottom: 20PX;
+   font-size: 37px;
+}
+#hr2 {
+  width: 250px;
+  border: solid 1px;
+  text-align: center;
+  border-radius: 50%;
+  border-top-width: 2px;
+  border-color: #58391c;
+}
 .AAQ {
   border: solid 3px;
   border-bottom-style: hidden;
@@ -393,4 +405,9 @@ margin-bottom: 0;
 }
 .linkedin:hover {
   color: #0073B1 ;
+}
+.Copyright {
+  color: #fff;
+  margin: 10px;
+  text-align: center;
 }
