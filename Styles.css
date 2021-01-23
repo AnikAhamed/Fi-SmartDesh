@@ -336,3 +336,61 @@ margin-bottom: 0;
   background-color: #212529 ;
   padding:  5% 15%;
 }
+#Last-div {
+  text-align: center;
+
+}
+#last-col {
+  margin: 5% 0;
+  padding: 10px 10px;
+  text-align: center;
+}
+.last-col-b {
+  border-left: solid 2px ;
+  border-right: solid 2px ;
+  border-width: 2px;
+  border-color: #ffd56b;
+}
+.link-S {
+  margin: 20px 15px;
+  font-size: 50px;
+  color: #fff;
+}
+.AAQ {
+  border: solid 3px;
+  border-bottom-style: hidden;
+  border-radius: 10px;
+  border-color: #ffd56b ;
+}
+.AAQ:hover {
+  border: solid 3px;
+  border-bottom-style: hidden;
+  border-radius: 10px;
+  border-color: #fff ;
+}
+.h1-last {
+  padding: 0;
+  margin-top: 10px ;
+}
+.AAQQ {
+  pading 50%;
+  margin: 0 23%;
+}
+.github:hover {
+  color: #DEE1E6 ;
+}
+.facebook:hover {
+  color: #1877F2 ;
+}
+.google:hover {
+  color: #DC2C2A ;
+}
+.youtube:hover {
+  color: #F70000 ;
+}
+.instagram:hover {
+  color: #E80071 ;
+}
+.linkedin:hover {
+  color: #0073B1 ;
+}
